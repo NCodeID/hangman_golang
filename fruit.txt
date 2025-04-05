@@ -1,0 +1,50 @@
+Apple  
+Banana  
+Orange  
+Mango  
+Pineapple  
+Strawberry  
+Grapes  
+Blueberry  
+Papaya  
+Kiwi  
+Watermelon  
+Peach  
+Cherry  
+Lemon  
+Guava  
+Lychee  
+Raspberry  
+Blackberry  
+Pomegranate  
+Fig  
+Coconut  
+Avocado  
+Dragonfruit  
+Jackfruit  
+Durian  
+Tangerine  
+Cantaloupe  
+Apricot  
+Nectarine  
+Passionfruit  
+Starfruit  
+Persimmon  
+Mulberry  
+Date  
+Cranberry  
+Longan  
+Gooseberry  
+Tamarind  
+Quince  
+Plum  
+Boysenberry  
+Soursop  
+Custard Apple  
+Breadfruit  
+Camu Camu  
+Salak 
+Jujube  
+Rambutan  
+Miracle Fruit  
+Horned Melon
